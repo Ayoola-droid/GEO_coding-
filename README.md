@@ -52,4 +52,4 @@ The Property Price Register itself is too large for GitHub; download it from htt
 
 ## Author
 
-Ayoola Fadare · MSc Business Analytics (2025)
+Ayoola Fadare · MSc Business Analytics (2025) · [LinkedIn](https://www.linkedin.com/in/ayoola-fadare-78916b107)
