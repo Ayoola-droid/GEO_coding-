@@ -1,0 +1,7 @@
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+# large data stays local
+data/raw/
